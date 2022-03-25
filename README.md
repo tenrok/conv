@@ -3,10 +3,10 @@ Golang library for safe base type conversion and struct/map manipulation.
 
 ## Install
 
-go get github.com/night-codes/conv
+go get github.com/tenrok/conv
 
 ## Documentation
-[Docs on pkg.go.dev](https://pkg.go.dev/github.com/night-codes/conv)
+[Docs on pkg.go.dev](https://pkg.go.dev/github.com/tenrok/conv)
 
 ## How to use
 
@@ -14,7 +14,7 @@ go get github.com/night-codes/conv
 package main
 
 import (
-    "github.com/night-codes/conv"
+    "github.com/tenrok/conv"
     "fmt"
     "reflect"
 )

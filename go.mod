@@ -1,3 +1,3 @@
-module github.com/night-codes/conv
+module github.com/tenrok/conv
 
 go 1.16
